@@ -6,3 +6,16 @@ sky:
     database: sky_take_out
     username: root
     password: 123456
+  cloudinary:
+    cloud-name: djr2j9kpg
+    api-key: 842828246414883
+    api-secret: 7AKgj0bCLh0tcwaqsqe0i048YEQ
+
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 0
+  wechat:
+    appid: wx9fb77ea242016de6
+    secret: d04bf1099f342d2005d0145547896aad
