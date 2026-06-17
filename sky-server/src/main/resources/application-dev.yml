@@ -19,3 +19,10 @@ sky:
   wechat:
     appid: wx9fb77ea242016de6
     secret: d04bf1099f342d2005d0145547896aad
+    mchid: 1558950191
+    mchSerialNo: 商户API证书序列号
+    privateKeyFilePath: D:/cert/apiclient_key.pem
+    apiV3Key: apiV3密钥
+    weChatPayCertFilePath: D:/cert/wechatpayCert.pem
+    notifyUrl: https://ca7261b.r21.cpolar.top/notify/paySuccess
+    refundNotifyUrl: https://ca7261b.r21.cpolar.top/notify/refundSuccess
