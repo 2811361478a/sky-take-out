@@ -1,4 +1,8 @@
 sky:
+  shop:
+    address: 广州市荔湾区
+  baidu:
+    ak: ocV2I5MfRQLlao77LdYYDTzeVvx3Wm5H
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     host: localhost
